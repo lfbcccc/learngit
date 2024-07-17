@@ -2,6 +2,7 @@ git is a version control system 。。。。
 git is free software
  get is a distributed version control system
 
+<<<<<<< HEAD
 
 
 
