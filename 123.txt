@@ -4,7 +4,5 @@ git is free software
 
 <<<<<<< HEAD
 
-
-
 creating a new branch is quich and simple
 
